@@ -46,7 +46,7 @@ Não foi publicado
 
 ## License
 
-Software feito apenas para fins de estudo
+[MIT](https://gist.github.com/robsonpedroso/98dc906d5896711f07a9cffbcc2776ea)
 
 ## Ferramentas
 
